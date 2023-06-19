@@ -1,2 +1,2 @@
-# pldt-poc
-PLDT-Smart POC Data Engineering Use Cases
+# POC
+POC Data Engineering Use Cases
